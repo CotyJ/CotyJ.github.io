@@ -1,8 +1,8 @@
 import { useEffect } from 'react';
-import {  AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, Line} from 'recharts';
+import {  AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip } from 'recharts';
 
 
-const Chart = ({data, theme ,setTheme}) => {
+const Chart = ({data, theme}) => {
 
   const style = { width: '100%', maxWidth: '700px', maxHeight: '60vh', aspectRatio: 1.618 , margin: '0.1rem', padding: '0.5rem', fontSize: 'x-small'};
 
