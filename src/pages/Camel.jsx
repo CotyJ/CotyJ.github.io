@@ -23,7 +23,6 @@ const Camel = ({ theme, setTheme }) => {
       <div className="container-fluid"></div>
       {Object.entries(data).length > 1 &&
         Object.entries(data).map((item, i) => {
-          console.log(data)
           return <CamelHump item={item} key={i} theme={theme} setTheme={setTheme} />
         })}
     </div>
