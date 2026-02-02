@@ -9,14 +9,19 @@ const Chart = ({data, theme ,setTheme}) => {
   const chartStyleLight = {stroke: "#000", fill: "#3376c3ff"};
   const chartStyleDark  = {stroke: "#fff", fill: "#3376c3ff"};
   const margins = {top: 10, right: 10, left: 10, bottom: 10};
-  const contentStyle = { backgroundColor: '#ccc', borderRadius: '6px', color: '#000' };
+  const tooltipContentStyle = {
+    backgroundColor: '#ddd',
+    border: '1px solid #5e5e5e',
+    borderRadius: '6px',
+    color: '#000'
+  };
 
   useEffect(() => {}, [theme])
 
   return (
     <div className="chart">
       <AreaChart
-        style={theme === 'dark ' ? style : style}
+        style={style}
         data={data}
         margin={margins}
       >
@@ -24,13 +29,9 @@ const Chart = ({data, theme ,setTheme}) => {
         <XAxis dataKey="date"/>
         <YAxis width="auto"/>
         <Tooltip
-          contentStyle={contentStyle}
+          contentStyle={tooltipContentStyle}
           itemStyle={{ color: '#000'}}
         />
-          <Line
-            type="monotone" dataKey="pv" stroke="#000"
-
-          />
         <Area type="monotone" dataKey="price"
           stroke={theme === 'dark' ? chartStyleDark.stroke : chartStyleLight.stroke}
           fill={theme === 'dark' ? chartStyleDark.fill : chartStyleLight.fill}
