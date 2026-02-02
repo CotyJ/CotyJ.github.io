@@ -1,0 +1,14 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare files that should always have LF endings
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Explicitly declare files that should always have CRLF endings (if needed)
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Denote binary files
+*.png binary
+*.jpg binary

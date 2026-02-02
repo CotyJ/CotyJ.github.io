@@ -7,7 +7,7 @@ const Chart = ({data, theme ,setTheme}) => {
   const style = { width: '100%', maxWidth: '700px', maxHeight: '60vh', aspectRatio: 1.618 , margin: '0.1rem', padding: '0.5rem', fontSize: 'x-small'};
 
   const chartStyleLight = {stroke: "#000", fill: "rgba(18, 135, 220, 1)", color: "#111"};
-  const chartStyleDark  = {stroke: "#3376c3ff", fill: "#384097ff", color: "#a4a"};
+  const chartStyleDark  = {stroke: "#3376c3ff", fill: "#3376c3ff", color: "#a4a"};
 
 
   useEffect(() => {
