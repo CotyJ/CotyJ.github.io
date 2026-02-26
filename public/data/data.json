@@ -122,6 +122,66 @@
       {
         "date": "2026-02-05",
         "price": "284.50"
+      },
+      {
+        "date": "2026-02-09",
+        "price": "284.50"
+      },
+      {
+        "date": "2026-02-10",
+        "price": "284.50"
+      },
+      {
+        "date": "2026-02-12",
+        "price": "284.50"
+      },
+      {
+        "date": "2026-02-13",
+        "price": "284.50"
+      },
+      {
+        "date": "2026-02-14",
+        "price": "284.50"
+      },
+      {
+        "date": "2026-02-15",
+        "price": "284.50"
+      },
+      {
+        "date": "2026-02-16",
+        "price": "219.99"
+      },
+      {
+        "date": "2026-02-17",
+        "price": "219.99"
+      },
+      {
+        "date": "2026-02-18",
+        "price": "219.99"
+      },
+      {
+        "date": "2026-02-19",
+        "price": "219.99"
+      },
+      {
+        "date": "2026-02-20",
+        "price": "219.99"
+      },
+      {
+        "date": "2026-02-22",
+        "price": "219.99"
+      },
+      {
+        "date": "2026-02-23",
+        "price": "199.99"
+      },
+      {
+        "date": "2026-02-24",
+        "price": "199.99"
+      },
+      {
+        "date": "2026-02-25",
+        "price": "199.99"
       }
     ]
   },
@@ -240,11 +300,79 @@
       {
         "date": "2026-02-05",
         "price": "159.99"
+      },
+      {
+        "date": "2026-02-09",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-10",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-11",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-12",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-14",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-13",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-14",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-15",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-16",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-17",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-18",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-19",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-20",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-22",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-23",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-24",
+        "price": "159.99"
+      },
+      {
+        "date": "2026-02-25",
+        "price": "159.99"
       }
     ]
   },
   "macbook": {
-    "title": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence, 13.6\" Liquid Retina Display, 16GB Unified Memory, 256GB SSD Storage, 12MP Center Stage Camera, Touch ID, Midnight",
+    "title": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 256GB SSD Storage, 12MP Center Stage Camera, Touch ID; Midnight",
     "url": "https://m.media-amazon.com/images/I/71cWZUr9SVL._AC_SX342_.jpg",
     "history": [
       {
@@ -362,6 +490,70 @@
       {
         "date": "2026-02-07",
         "price": "849.99"
+      },
+      {
+        "date": "2026-02-08",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-09",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-10",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-11",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-12",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-14",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-13",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-14",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-15",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-16",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-17",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-18",
+        "price": "783.52"
+      },
+      {
+        "date": "2026-02-19",
+        "price": "783.52"
+      },
+      {
+        "date": "2026-02-20",
+        "price": "849.99"
+      },
+      {
+        "date": "2026-02-22",
+        "price": "783.52"
+      },
+      {
+        "date": "2026-02-23",
+        "price": "783.52"
       }
     ]
   }
