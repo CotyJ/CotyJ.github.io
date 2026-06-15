@@ -9,6 +9,7 @@ const CamelHump = ({ item, theme, setTheme }) => {
   const itemName = item[0];
   const { history } = item[1];
 
+
   return (
     <div className="row camel-hump max-w-xl">
       <div className="fs-3 camel-hump-tltle" data-bs-toggle="collapse" data-bs-target={`#${itemName}`}>
